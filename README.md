@@ -5,6 +5,6 @@
 
 ### Sampling based algorithms
 
-- RRT(Rapidly-exploring Random Tree)
+- [RRT(Rapidly-exploring Random Tree)](./docs/RRT.md)
 - RRT*(Rapidly-exploring Random Tree star)
 - PRM(Probability Roadmaps)
