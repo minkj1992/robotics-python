@@ -2,7 +2,7 @@
 
 ```pseudo
 Pseudo Code RRT
-    Input: Initial configuration qinit, number of vertices in RRT K, incremental distance Δq
+    Input: Initial configuration qinit, number of vertices(꼭지점) in RRT K, incremental distance Δq
     Output: RRT graph G
 
     G.init(qinit)
